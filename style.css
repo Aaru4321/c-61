@@ -1,0 +1,22 @@
+#secapp{
+    background-color: darkorange;
+    text-align: center;
+}
+.line{
+ width: 70px;
+ height: 10px;
+ background-color: black;
+ margin: 8px auto;
+}
+#secgames{
+    background-color: indigo;
+    text-align: center;
+}
+#secchatbot{
+    background-color: limegreen;
+    text-align: center;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    
+}
